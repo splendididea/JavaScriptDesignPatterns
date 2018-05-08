@@ -72,7 +72,8 @@ var myObj = (function(){
         }
     }
 }());
-console.log( myObj.callMyName() = function() {
+console.log( myObj = function() {
     return 'heyhey'
 });
 console.log( myObj.callMyName() );
+

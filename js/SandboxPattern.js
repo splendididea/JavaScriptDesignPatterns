@@ -86,4 +86,3 @@ function callArugment(a, b) {
 
 console.log( callArugment(1,2).toString() );
 
-
